@@ -20,3 +20,14 @@ sudo apt-get install python-pyaudio
 ```
 
 来安装
+Test.py文件是我学习使用cocos库的使用而生成的python文件
+
+
+pps.py、black.py、AyuLiaoGame.py才是正式代码
+
+可以关注我的博客
+lmwen.top
+
+或者关注我的公众号，一起为人生编写自己的外挂
+
+![懒写作](http://obfs4iize.bkt.clouddn.com/%E6%87%92%E5%86%99%E4%BD%9C.jpg)
